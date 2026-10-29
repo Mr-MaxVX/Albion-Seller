@@ -47,10 +47,29 @@ The script uses pyautogui to automate mouse movements and clicks. It:
 
 ## Important Notes
 
-- Make sure Albion Online is open and positioned correctly before running
+- Make sure Albion Online is martketplace is open and positioned it correctly before running
 - The script assumes a 4-column inventory layout
 - Coordinates may need adjustment if the game UI changes
 - Use at your own risk - automation may violate game terms of service
+
+Run like this ✅ :
+
+
+
+
+
+<img width="539" height="486" alt="image" src="https://github.com/user-attachments/assets/84be44fe-1cea-4f00-b0ba-2bc23d7f6580" />
+
+
+
+Not like THIS ✖️ :
+
+
+
+
+
+<img width="794" height="425" alt="image" src="https://github.com/user-attachments/assets/682eaa46-8c84-4cce-bbe3-a5efb62ab1e6" />
+
 
 ## License
 
